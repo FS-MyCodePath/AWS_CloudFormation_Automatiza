@@ -1,7 +1,7 @@
 # AWS_CloudFormation_Automatização
 
 <p align="center"><img src="./images/CloudFormation_Auto.png" width= "400"></p>
---- 
+
 
 ## O que é o AWS CloudFormation ##
 
@@ -31,6 +31,8 @@ Em vez de criar cada recurso manualmente no console da AWS, o CloudFormation aut
 - Gerenciamento Automatizado: o serviço provisiona, configura e monitora os recursos automaticamente. Qualquer atualização é feita através da modificação do template e aplicação controlada da mudança.
 
 - Rollback Automático: em caso de falha durante a implantação, o CloudFormation reverte as alterações para manter a integridade da infraestrutura.
+
+  ### Exemplo ###
 
 ## Boas Práticas ##
 
