@@ -34,6 +34,9 @@ Em vez de criar cada recurso manualmente no console da AWS, o CloudFormation aut
 
   ### Exemplo ###
 
+<p align="center"><img src="./images/CloudFormation_dia.png" width= "700"></p>
+
+
 ## Boas Práticas ##
 
 - Usar parâmetros e variáveis para tornar os templates reutilizáveis.
