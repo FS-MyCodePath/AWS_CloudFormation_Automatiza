@@ -1,4 +1,4 @@
-# AWS_CloudFormation_Automatização
+# AWS CloudFormation Automatização
 
 > &nbsp; &nbsp; &nbsp; &nbsp; Projeto que visa revisar conhecimentos práticos de automatização com o uso de AWS CloudFormation e como provisionar de forma eficiente.  
 
